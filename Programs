@@ -1,0 +1,7 @@
+statics class program{
+
+void main(string[] args){
+    console.writeline("Hello World");
+  }
+}
+    
